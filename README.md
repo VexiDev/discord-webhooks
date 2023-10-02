@@ -1,13 +1,14 @@
-# Discord Webhooks
+# This is probably not my code. I do not remember or claim to have made this.
+
+## Discord Webhooks
 
 Just Heroku for now. 
 
-
-## Deploy with Vercel
+### Deploy with Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmuan%2Fdiscord-webhooks)
 
-## Heroku
+### Heroku
 
 1. Deploy app and remember your `<app-url>`
 2. Create webhook for channel on Discord and copy `<webhook-url>`
